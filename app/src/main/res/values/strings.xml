@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">app3</string>
+    <string name="Password">Пароль</string>
+    <string name="Login">Логин</string>
+    <string name="Log">Войти</string>
+    <string name="Reg">Зарегестрироваться</string>
+    <string name="refresh">обновить</string>
+    <string name="logOut">Выйти</string>
+</resources>
